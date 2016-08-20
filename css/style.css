@@ -713,6 +713,12 @@ Parallax
     margin-top: 0;
 }
 
+.studyguides-table {
+    font-size: 26px;
+    padding: 25px;
+    width: 90%;
+}
+
 
 /* Media queries */
 
