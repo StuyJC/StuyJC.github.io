@@ -719,6 +719,10 @@ Parallax
     width: 90%;
 }
 
+.platform-content {
+    font-size: 18px;
+}
+
 
 /* Media queries */
 
