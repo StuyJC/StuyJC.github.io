@@ -301,36 +301,24 @@ hr {
 --- Intro
 ============================ */
 
-.intro {
-	width:100%;
-	position:relative;
-	
-	background: url(../img/bg1.jpg);
-    background-size: 100% 100%; 
+.intro-img {
+    width: 100%;
+    position: relative;
 }
 
-#intro.intro {
-	padding:20% 0 0 0;
-}
-
-.intro .slogan {
-	text-align: center;
-
-}
-
-.intro .page-scroll {
-	text-align: center;
+.slogan {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    padding: 20% 0% 0% 0%;
+    text-align: center;
 }
 
 .brand-heading {
     font-size: 40px;
 }
 
-.intro-text {
-    font-size: 18px;
-}
-
-.intro .slogan h2 {
+.slogan h2 {
 	color: #FFF;
 	text-shadow: none;
 	font-size: 60px;
@@ -346,7 +334,7 @@ hr {
 	text-shadow: -1px 0 1px #000;
 }
 
-.intro .slogan h4 {
+.slogan h4 {
 	color: #fff;
 	text-shadow: -1px 1px 1px #000;
 }
